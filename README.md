@@ -63,4 +63,4 @@ Create appropriate record sets for routing traffic to the Load Balancer.
 
 ###### Contributors
 
-#### Charles Sangi/Devops Team
+#### Assetina Arondah/DevOps Team
